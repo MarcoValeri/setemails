@@ -4,4 +4,3 @@ env: flex
 runtime_config:
     operating_system: "ubuntu22"
     document_root: .
-    front_controller_file: app.php
