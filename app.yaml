@@ -1,2 +1,6 @@
-runtime: php81
+runtime: php
 env: flex
+
+runtime_config:
+    operating_system: "ubuntu22"
+    document_root: .
